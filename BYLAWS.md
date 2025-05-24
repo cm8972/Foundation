@@ -2,7 +2,7 @@
 
 ## ARTICLE I - ORGANIZATION
 
-1. The name of the corporation shall be Alamofire Software Foundation.
+1. The name of the corporation shall be jcmm Alamofire Software Foundation.
 
 2. The organization shall have a seal which shall be in the following form: Seal not present of electronic copy, only on paper original.
 
